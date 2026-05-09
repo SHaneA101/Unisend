@@ -1,0 +1,12 @@
+{
+  "name": "unisend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UniSend realtime messenger powered by Firebase.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "firebase": "^12.13.0"
+  }
+}
